@@ -1,6 +1,4 @@
-# Redis
-
-# Redis Messaging ReadMe
+# Redis Messaging
 
 ## Overview
 This project aims to demonstrate the implementation of a messaging system using Redis, leveraging its various features to facilitate communication between producers and consumers. Redis, originally renowned as an in-memory cache, has evolved into a robust key-value database with messaging capabilities akin to Apache Kafka/Pulsar.
