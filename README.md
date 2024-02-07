@@ -12,3 +12,6 @@ This project aims to demonstrate the implementation of a messaging system using 
 5. Why I think Redis Stream has a lot to catch up
 
 
+## Architecture
+
+<img width="589" alt="Screenshot 2024-02-07 at 4 29 16 PM" src="https://github.com/tarunannapareddy/RedisMessaging/assets/19953916/b26839be-9715-40b5-a2a9-05b8fa9d8d34">
